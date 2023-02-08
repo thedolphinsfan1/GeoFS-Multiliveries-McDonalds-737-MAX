@@ -7,4 +7,5 @@ Want a McDonald's livery for your 737 MAX but you don't want to join the Discord
  And here is the base map:
  ![texture](https://user-images.githubusercontent.com/111387425/217652014-a55a9671-bfa1-4f39-b25c-2f2d4828ced4.png)
 
+Instructions for using: https://github.com/thedolphinsfan1/GeoFS-Multiliveries-Delta-Connection-ERJ-145
 This livery is owned and was created by Pawser Aviation. Do not modify or use without giving me credit.
